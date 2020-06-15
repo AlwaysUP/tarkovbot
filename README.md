@@ -1,6 +1,6 @@
 # Tarkov Kill count bot
 
-###### Brought to you by: small pp production
+###### Brought to you by: small pp (pain problems) production
 
 ### Setting Up
 Note:This is meant to run on heroku, please modify code accordingly to run it locally or somewhere else
